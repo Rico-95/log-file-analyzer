@@ -8,7 +8,7 @@ A Python script to scan authentication logs for failed SSH login attempts and ex
 - Identifies lines with 'Failed password'
 - Extracts and prints source IPs using regex
 
-## 🧪 Sample Output
+## Sample Output
 
 [!] Failed login attempt from IP: 192.168.1.5
 [!] Failed login attempt from IP: 203.0.113.99
