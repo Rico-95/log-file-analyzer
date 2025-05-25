@@ -1,0 +1,4 @@
+May 21 10:01:32 server sshd[12345]: Failed password for invalid user admin from 192.168.1.5 port 22 ssh2
+May 21 10:02:01 server sshd[12346]: Failed password for root from 203.0.113.99 port 22 ssh2
+May 21 10:03:15 server sshd[12347]: Failed password for user from 10.0.0.12 port 22 ssh2
+May 21 10:05:22 server sshd[12348]: Accepted password for validuser from 192.168.1.10 port 22 ssh2
